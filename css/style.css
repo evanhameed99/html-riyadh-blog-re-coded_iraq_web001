@@ -6,7 +6,7 @@ html, body {
 }
 
 body {
-  background:gradient(45deg,rgb(45,23,32),rgb(70,70,70));
+  background-color: pink;
   background-size: cover;
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
