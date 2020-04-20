@@ -9,7 +9,7 @@ body {
   background-color: pink;
   background-size: cover;
   background-attachment: fixed;
-  font-family: cursive;
+  font-family: "cursive";
   font-size: 90%;
 }
 
